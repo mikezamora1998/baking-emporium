@@ -1,0 +1,25 @@
+{
+  "name": "mzhost",
+  "version": "1.0.0",
+  "description": "HTML5 Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike-zamora.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-exit": "0.0.2",
+    "gulp-htmlhint": "^2.1.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-rtlcss": "^1.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1"
+  },
+  "dependencies": {
+    "pump": "^3.0.0"
+  }
+}
